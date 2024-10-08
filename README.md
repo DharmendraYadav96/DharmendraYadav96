@@ -5,13 +5,16 @@
 ## About Me
 
 - **Experience**: 2 years in data analysis and 1 year in Machine learning and Deep learning.
-- **Skills**: Proficient in Python, R, SQL, with experience in TensorFlow, PyTorch, and scikit-learn.
+- **Skills**: Proficient in Python, R, SQL, machine learning, deep learning with experience in TensorFlow, Keras, PyTorch, and scikit-learn.
 - **Interests**: Predictive modeling, NLP, computer vision, Robotics and Drones.
 
 ## Project Highlights
 
 1. **Predictive Maintenance**: Developed models for bike sharing demand prediction and credit card default prediction.
 2. **Sentiment Analysis**: Conducted sentiment analysis on Twitter data to drive informed marketing strategies.
+
+## Portfolio website
+https://dharmendrayadav96.github.io/Portfolio-webiste/
 
 ## Let's Connect!
 
