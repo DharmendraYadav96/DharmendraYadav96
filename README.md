@@ -12,6 +12,8 @@
 
 1. **Predictive Maintenance**: Developed models for bike sharing demand prediction and credit card default prediction.
 2. **Sentiment Analysis**: Conducted sentiment analysis on Twitter data to drive informed marketing strategies.
+3. **Netflix-Movies-and-TV-Shows-Clustering**
+4. **Youtube video summarisation**: Summarizes YouTube videos by extracting transcripts and generating concise summaries using LLMs.
 
 ## Portfolio website
 [(https://dharmendrayadav96.github.io/Portfolio-webiste/)](https://portfolio-webiste-kf65.onrender.com)
