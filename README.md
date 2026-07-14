@@ -1,28 +1,95 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Dharmendra Yadav 👋
 
-👋 Hi, I'm Dharmendra Yadav, a seasoned Data Scientist 📊 passionate about uncovering insights from data. Here, you'll find projects showcasing my expertise in Machine learning and Deep learning.
+I'm an AI Engineer focused on building practical applications using Large Language Models, Agentic AI, and Python.
 
-## About Me
+After spending several years working as an Aeronautical Data Analyst, I decided to transition into AI and have been building end-to-end projects that solve real-world problems using modern AI frameworks.
 
-- **Experience**: 2 years in data analysis and 1 year in Machine learning and Deep learning.
-- **Skills**: Proficient in Python, R, SQL, machine learning, deep learning with experience in TensorFlow, Keras, PyTorch, and scikit-learn.
-- **Interests**: Predictive modeling, NLP, computer vision, Robotics and Drones.
+## What I'm working on
 
-## Project Highlights
+* Building multi-agent AI applications with LangGraph
+* Developing production-ready LLM applications
+* Exploring Retrieval-Augmented Generation (RAG)
+* Learning advanced Agentic AI patterns
+* Preparing for AI Engineer opportunities
 
-1. **Predictive Maintenance**: Developed models for bike sharing demand prediction and credit card default prediction.
-2. **Sentiment Analysis**: Conducted sentiment analysis on Twitter data to drive informed marketing strategies.
-3. **Netflix-Movies-and-TV-Shows-Clustering**
-4. **Youtube video summarisation**: Summarizes YouTube videos by extracting transcripts and generating concise summaries using LLMs.
+## Featured Projects
+
+### Agentic Content Studio
+
+A multi-agent content generation system that researches, plans, writes, reviews, and generates complete blog articles using LangGraph and LLMs.
+
+**Tech:** LangGraph, LangChain, OpenAI, Python, Pydantic
+
+---
+
+### YouTube AI Assistant
+
+A chatbot that answers questions from YouTube videos by retrieving transcript information and generating context-aware responses.
+
+**Tech:** LangChain, FAISS, OpenAI, Python
+
+---
+
+### Machine Learning Projects
+
+A collection of traditional machine learning projects including:
+
+* Credit Card Default Prediction
+* Bike Sharing Demand Prediction
+* Netflix Recommendation Analysis
+* Hotel Booking Data Analysis
+
+## Technologies
+
+**Languages**
+
+* Python
+* SQL
+
+**AI & Machine Learning**
+
+* LangGraph
+* LangChain
+* OpenAI API
+* Scikit-learn
+* Pandas
+* NumPy
+* NLP
+* Machine Learning
+* Deep Learning
+
+**Tools**
+
+* Git
+* GitHub
+* Docker
+* AWS (Basics)
+* Flask
+* Streamlit
+
+## Currently Learning
+
+* Advanced Agentic AI
+* MCP (Model Context Protocol)
+* AI System Design
+* LLM Evaluation
+* Multi-Agent Architectures
+
+## Connect with me
+
+* [LinkedIn](http://www.linkedin.com/in/dharmendrayadav1996/)
+
+---
+
+> I enjoy building AI systems that move beyond simple prompts and solve problems through planning, reasoning, and collaboration between multiple agents.
+> Thanks for stopping by! Let's delve into the exciting world of data science together.
+
 
 ## Portfolio website
 [(https://dharmendrayadav96.github.io/Portfolio-webiste/)](https://portfolio-webiste-kf65.onrender.com)
 
-## Let's Connect!
 
-I'm keen on collaborating and learning from fellow data enthusiasts. Feel free to connect via [LinkedIn](http://www.linkedin.com/in/dharmendrayadav1996/) .
-
-Thanks for stopping by! Let's delve into the exciting world of data science together. 🚀✨
+ 🚀✨
 <!---
 DharmendraYadav96/DharmendraYadav96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
