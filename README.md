@@ -1,4 +1,4 @@
-# Hi, I'm Dharmendra Yadav 👋
+# Hi, I'm Dharmendra Yadav 
 
 I'm an AI Engineer focused on building practical applications using Large Language Models, Agentic AI, and Python.
 
