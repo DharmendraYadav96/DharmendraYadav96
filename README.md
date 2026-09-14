@@ -2,7 +2,7 @@
 
 **AI Engineer | Machine Learning | Generative AI | Agentic AI**
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/DharmendraYadav96)
+[Portfolio](https://portfolio-webiste-kf65.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/dharmendrayadav1996/) · [GitHub](https://github.com/DharmendraYadav96)
 
 I build machine learning and AI applications with a focus on **LLM applications, RAG, Agentic AI, and intelligent document systems**.
 
@@ -82,7 +82,7 @@ A multi-agent content generation system built around a LangGraph workflow.
 * Automated image generation and placement
 * Flask application with deployed web interface
 
-[Repository](https://github.com/DharmendraYadav96/agentic-content-studio-app)
+[Repository](https://github.com/DharmendraYadav96/Agentic-Content-Studio)
 
 ---
 
@@ -99,7 +99,7 @@ A document intelligence platform designed around Retrieval-Augmented Generation.
 * RAG-based question answering
 * Modular Flask and service-layer architecture
 
-[Repository](YOUR_ENTERPRISE_AI_REPO_URL)
+[Repository](https://github.com/DharmendraYadav96/Enterprise-AI-Knowledge-Platform)
 
 ---
 
@@ -127,6 +127,8 @@ Regression project focused on predicting bike rental demand from historical and 
 
 `Data → EDA → Feature Engineering → Regression → Evaluation`
 
+[Repository](https://github.com/DharmendraYadav96/Bike-Sharing-Demand-Prediction)
+
 ---
 
 ### Netflix Movies & TV Shows Clustering
@@ -134,6 +136,8 @@ Regression project focused on predicting bike rental demand from historical and 
 Unsupervised learning project that identifies groups of similar Netflix titles based on available metadata.
 
 `Data → EDA → Feature Engineering → Clustering → Visualization`
+
+[Repository](https://github.com/DharmendraYadav96/Netflix-Movies-and-TV-Shows-Clustering)
 
 ---
 
@@ -143,6 +147,8 @@ Classification project for predicting the probability of credit card payment def
 
 `Data → Preprocessing → Feature Analysis → Classification → Evaluation`
 
+[Repository](https://github.com/DharmendraYadav96/Credit-Card-Default-Prediction)
+
 ---
 
 ### Hotel Booking Analysis
@@ -150,6 +156,8 @@ Classification project for predicting the probability of credit card payment def
 Data analysis project exploring booking patterns, cancellations, customer behavior, and other business insights.
 
 `Raw Data → Cleaning → EDA → Visualization → Insights`
+
+[Repository](https://github.com/DharmendraYadav96/Hotel-Booking-Analysis)
 
 ---
 
