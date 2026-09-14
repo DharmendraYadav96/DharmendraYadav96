@@ -1,96 +1,206 @@
-# Hi, I'm Dharmendra Yadav 
+# Dharmendra Yadav
 
-I'm an AI Engineer focused on building practical applications using Large Language Models, Agentic AI, and Python.
+**AI Engineer | Machine Learning | Generative AI | Agentic AI**
 
-After spending several years working as an Aeronautical Data Analyst, I decided to transition into AI and have been building end-to-end projects that solve real-world problems using modern AI frameworks.
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/DharmendraYadav96)
 
-## What I'm working on
+I build machine learning and AI applications with a focus on **LLM applications, RAG, Agentic AI, and intelligent document systems**.
 
-* Building multi-agent AI applications with LangGraph
-* Developing production-ready LLM applications
-* Exploring Retrieval-Augmented Generation (RAG)
-* Learning advanced Agentic AI patterns
-* Preparing for AI Engineer opportunities
+My background in aeronautical engineering and data analysis has shaped the way I approach AI: understand the problem first, build the system around it, and keep the solution practical.
 
-## Featured Projects
+---
+
+## AI Engineering Pipeline
+
+```text
+                         AI ENGINEERING PIPELINE
+
+ Data                    Intelligence                    Systems
+  |                           |                             |
+  v                           v                             v
++---------+      +-------------------------+      +----------------------+
+|   DATA  | ---> |       ML / LLM          | ---> |    AI APPLICATIONS   |
++---------+      +-------------------------+      +----------------------+
+      |                    |        |                       |
+      |                    |        |                       |
+      v                    v        v                       v
+  Analysis             ML Models   RAG                  AI Agents
+  Features             NLP         Embeddings            Workflows
+  Patterns             GenAI       Retrieval             Automation
+      |                    |        |                       |
+      +--------------------+--------+-----------------------+
+                               |
+                               v
+                    +------------------------+
+                    |     AI ENGINEERING     |
+                    |                        |
+                    |  Flask | LangChain    |
+                    |  LangGraph | Qdrant   |
+                    |  APIs | AWS | Git     |
+                    +------------------------+
+```
+
+I started with data and machine learning, moved into NLP and Generative AI, and am now focused on building complete AI systems rather than isolated models.
+
+---
+
+## Technology Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat"/>
+<img src="https://img.shields.io/badge/MCP-444444?style=flat"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-D83B01?style=flat"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## AI Projects
 
 ### Agentic Content Studio
 
-A multi-agent content generation system that researches, plans, writes, reviews, and generates complete blog articles using LangGraph and LLMs.
+A multi-agent content generation system built around a LangGraph workflow.
 
-**Tech:** LangGraph, LangChain, OpenAI, Python, Pydantic
+`Research → Planning → Parallel Generation → Merge → Evaluation → Image Generation`
 
----
+* Multi-agent orchestration using LangGraph
+* Parallel worker execution
+* Web research and structured content generation
+* Pydantic structured outputs
+* Automated image generation and placement
+* Flask application with deployed web interface
 
-### YouTube AI Assistant
-
-A chatbot that answers questions from YouTube videos by retrieving transcript information and generating context-aware responses.
-
-**Tech:** LangChain, FAISS, OpenAI, Python
-
----
-
-### Machine Learning Projects
-
-A collection of traditional machine learning projects including:
-
-* Credit Card Default Prediction
-* Bike Sharing Demand Prediction
-* Netflix Recommendation Analysis
-* Hotel Booking Data Analysis
-
-## Technologies
-
-**Languages**
-
-* Python
-* SQL
-
-**AI & Machine Learning**
-
-* LangGraph
-* LangChain
-* OpenAI API
-* Scikit-learn
-* Pandas
-* NumPy
-* NLP
-* Machine Learning
-* Deep Learning
-
-**Tools**
-
-* Git
-* GitHub
-* Docker
-* AWS (Basics)
-* Flask
-* Streamlit
-
-## Currently Learning
-
-* Advanced Agentic AI
-* MCP (Model Context Protocol)
-* AI System Design
-* LLM Evaluation
-* Multi-Agent Architectures
-
-## Connect with me
-
-* [LinkedIn](http://www.linkedin.com/in/dharmendrayadav1996/)
+[Repository](https://github.com/DharmendraYadav96/agentic-content-studio-app)
 
 ---
 
-> I enjoy building AI systems that move beyond simple prompts and solve problems through planning, reasoning, and collaboration between multiple agents.
-> Thanks for stopping by! Let's delve into the exciting world of data science together.
+### Enterprise AI Knowledge Platform
 
+A document intelligence platform designed around Retrieval-Augmented Generation.
 
-## Portfolio website
-[(https://dharmendrayadav96.github.io/Portfolio-webiste/)](https://portfolio-webiste-kf65.onrender.com)
+`Documents → Extraction → Cleaning → Chunking → Embeddings → Retrieval → LLM → Answer`
 
+* PDF, DOCX and TXT document processing
+* Document ingestion pipeline
+* Embeddings and vector search using Qdrant
+* Hybrid semantic and keyword retrieval
+* RAG-based question answering
+* Modular Flask and service-layer architecture
 
- 🚀✨
-<!---
-DharmendraYadav96/DharmendraYadav96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Repository](YOUR_ENTERPRISE_AI_REPO_URL)
+
+---
+
+### YouTube Chatbot
+
+A conversational RAG application that turns YouTube videos into searchable knowledge sources.
+
+`YouTube URL → Transcript → Chunks → Embeddings → Retrieval → Answer`
+
+* YouTube transcript extraction
+* Document processing and chunking
+* Retrieval-based question answering
+* LangChain and OpenAI integration
+* Flask web application
+
+[Repository](YOUR_YOUTUBE_CHATBOT_REPO_URL)
+
+---
+
+## Machine Learning Projects
+
+### Bike Sharing Demand Prediction
+
+Regression project focused on predicting bike rental demand from historical and environmental data.
+
+`Data → EDA → Feature Engineering → Regression → Evaluation`
+
+---
+
+### Netflix Movies & TV Shows Clustering
+
+Unsupervised learning project that identifies groups of similar Netflix titles based on available metadata.
+
+`Data → EDA → Feature Engineering → Clustering → Visualization`
+
+---
+
+### Credit Card Default Prediction
+
+Classification project for predicting the probability of credit card payment default.
+
+`Data → Preprocessing → Feature Analysis → Classification → Evaluation`
+
+---
+
+### Hotel Booking Analysis
+
+Data analysis project exploring booking patterns, cancellations, customer behavior, and other business insights.
+
+`Raw Data → Cleaning → EDA → Visualization → Insights`
+
+---
+
+## What I'm Exploring
+
+```text
+RAG
+ └── Hybrid Retrieval
+      └── Reranking
+           └── Context Optimization
+                └── Evaluation
+
+LLM Applications
+ └── Tool Calling
+      └── MCP
+           └── Agentic Workflows
+                └── Multi-Agent Systems
+
+AI Engineering
+ └── APIs
+      └── Modular Architecture
+           └── Deployment
+                └── Monitoring & Evaluation
+```
+
+---
+
+## Beyond the Projects
+
+My professional background is in the aeronautical industry, where I have worked with large volumes of technical data, specifications, and quality-critical workflows.
+
+That experience influences the kind of AI systems I like to build: systems where **accuracy, traceability, structured workflows, and practical usability** matter.
+
+---
+
+## Current Focus
+
+Building stronger foundations in:
+
+`Agentic AI` · `Advanced RAG` · `LangGraph` · `MCP` · `LLM Evaluation` · `AI System Design`
+
+---
+
+## Open to
+
+AI Engineer · Generative AI Engineer · Machine Learning Engineer · AI/ML Developer
+
+I'm particularly interested in opportunities where I can work on **real-world AI products, LLM applications, intelligent automation, and AI engineering systems**.
+
+---
+
+<p align="center">
+  <sub>Build. Evaluate. Improve. Repeat.</sub>
+</p>
